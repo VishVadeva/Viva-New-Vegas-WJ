@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Viva New Vegas",
+    "description": "Viva New Vegas is a comprehensive modlist for Fallout New Vegas that will give you a perfectly stable, smooth, and most importantly, enjoyable experience. You can find the (manual) guide at vivanewvegas.moddinglinked.com.",
+    "author": "VishVadeva - Qolore7",
+    "maintainers": [
+      "github/VishVadeva"
+    ],
+    "game": "falloutnewvegas",
+    "tags": [
+      "vivanewvegas",
+      "vnv",
+      "viva"
+    ],
+    "nsfw": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/VishVadeva/Viva-New-Vegas-WJ/main/Viva%20New%20Vegas.png",
+      "readme": "https://vivanewvegas.moddinglinked.com/wabbajack.html",
+      "download": "https://github.com/VishVadeva/Viva-New-Vegas-WJ/releases/download/v1.0/Viva.New.Vegas.wabbajack",
+      "machineURL": "vivanewvegaswj",
+      "discordURL": "https://discord.com/invite/viva-new-vegas-659108573485465620"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "rWsisnh606s=",
+      "Size": 219608395,
+      "NumberOfArchives": 101,
+      "SizeOfArchives": 1087624227,
+      "NumberOfInstalledFiles": 6762,
+      "SizeOfInstalledFiles": 2404502492
+    },
+    "version": "1.0"
+  }
+]
