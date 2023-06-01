@@ -20,18 +20,18 @@
 		"$type": "Links, Wabbajack.Lib",
 		"image": "https://raw.githubusercontent.com/VishVadeva/Viva-New-Vegas-WJ/main/Viva%20New%20Vegas.png",
 		"readme": "https://vivanewvegas.moddinglinked.com/wabbajack.html",
-		"download": "https://github.com/VishVadeva/Viva-New-Vegas-WJ/releases/download/v1.1/Viva.New.Vegas.wabbajack",
+		"download": "https://github.com/VishVadeva/Viva-New-Vegas-WJ/releases/download/v1.2/Viva.New.Vegas.wabbajack",
 		"machineURL": "VivaNewVegas",
 		"discordURL": "https://discord.com/invite/viva-new-vegas-659108573485465620"
 	},
 	"download_metadata": {
 		"$type": "DownloadMetadata, Wabbajack.Lib",
-		"Hash": "PYgCJ02Xdzw=",
-		"Size": 219665189,
-		"NumberOfArchives": 111,
-		"SizeOfArchives": 1103357266,
-		"NumberOfInstalledFiles": 6935,
-		"SizeOfInstalledFiles": 2477780301
+		"Hash": "ilPmz3uLLXU=",
+		"Size": 219778077,
+		"NumberOfArchives": 113,
+		"SizeOfArchives": 1103358490,
+		"NumberOfInstalledFiles": 6956,
+		"SizeOfInstalledFiles": 2477897910
 	},
-	"version": "1.1"
+	"version": "1.2"
 }]
